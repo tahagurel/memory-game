@@ -189,6 +189,7 @@
   .gameFinished {
     background-color: #aa60c3;
     color: white;
+    -webkit-text-stroke: 0px rgb(252, 252, 252);
     border: 0;
     font-size: 20px;
     padding: 10px;
