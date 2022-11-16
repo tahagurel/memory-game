@@ -1,6 +1,6 @@
 # memory-game
 <a href="https://profound-granita-03d651.netlify.app/" target="_blank">LIVE DEMO</a>
-![image](https://codemonzy.com/Memory-game.PNG)
+![image](https://codemonzy.com/Memory-Game.PNG)
 ## Project setup
 ```
 npm install
